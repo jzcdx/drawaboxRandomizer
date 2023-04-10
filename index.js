@@ -37,10 +37,6 @@ function createNewExercise(exercise) {
     return newNode;
 }
 
-function test() {
-    console.log("hi")
-}
-
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);
 }
